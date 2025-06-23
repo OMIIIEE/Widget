@@ -13,7 +13,7 @@ const initialCategories = [
   },
   {
     id: 2,
-    name: 'Security Overview',
+    name: 'Registry Scan',
     widgets: [{ id: 3, name: 'Widget 3', text: 'This is widget 3' }]
   },
   {
