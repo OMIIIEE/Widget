@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 Steps to run the program 
 1.  clone the repository to your local system  or download the zip file 
-2. Go to project Directory "WIDGETWAVE"
+2. Go to project Directory "WIDGET-MASTER"
 3. run the command "npm install" to install all the required packages
 4. run the command "npm run dev" to start the development server
 5. open the browser and go to "http://localhost:5173/" to see the application
